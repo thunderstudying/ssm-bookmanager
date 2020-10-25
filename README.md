@@ -1,2 +1,3 @@
-# ssm-bookmanager
-SSM based library book manager system
+# 基于SSM的图书管理系统
+
+“软件项目开发基础”课程作业。
